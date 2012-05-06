@@ -8,8 +8,8 @@ pom.xml
 .lein-deps-sum
 .lein-failures
 .lein-plugins
-.classpath
-.externalToolBuilders/
-.project
-.settings
-bin
+/.classpath
+/.externalToolBuilders/
+/.project
+/.settings
+/bin
